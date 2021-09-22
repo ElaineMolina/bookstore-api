@@ -1,4 +1,4 @@
-package com.molina.bookstore.domin;
+package com.molina.bookstore.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
